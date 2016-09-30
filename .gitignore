@@ -1,0 +1,4 @@
+*.db
+64/
+Release/
+Debug/
